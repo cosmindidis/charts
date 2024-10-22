@@ -17,13 +17,13 @@ dependencies:
   charts_common:
     git:
       url: https://github.com/cosmindidis/charts.git
-      ref: 632ce2b3f4681c8c35195e62ecdbc3d9f3a133c4
+      ref: 3b64da268eaa3e32355773a4792b05ec806a2d0c
       path: charts_common
   #  path: ../charts_common/
   collection: ^1.14.5
   flutter:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.19.0
   logging: ^1.0.2
   meta: ^1.1.1
 
